@@ -4,5 +4,5 @@
 
 <p> You can check it by writing this code in your editor. </p>
 <h2>  
->>> import django
+>>> import django \n
 >>> print(django.get_version()) </h2>
